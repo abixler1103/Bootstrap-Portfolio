@@ -352,7 +352,7 @@ section.cta {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url('../img/bg-cta.jpg');
+    /*background-image: url('../img/bg-cta.jpg');*/
     padding: 250px 0;
 }
 
@@ -411,27 +411,27 @@ section.contact ul.list-social li a {
     color: white;
 }
 
-section.contact ul.list-social li.social-twitter a {
+section.contact ul.list-social li.social-linkedin a {
     background-color: #1da1f2;
 }
 
-section.contact ul.list-social li.social-twitter a:hover {
+section.contact ul.list-social li.social-linkedin a:hover {
     background-color: #0d95e8;
 }
 
-section.contact ul.list-social li.social-facebook a {
+section.contact ul.list-social li.social-github a {
     background-color: #3b5998;
 }
 
-section.contact ul.list-social li.social-facebook a:hover {
+section.contact ul.list-social li.social-github a:hover {
     background-color: #344e86;
 }
 
-section.contact ul.list-social li.social-google-plus a {
+section.contact ul.list-social li.social-email a {
     background-color: #dd4b39;
 }
 
-section.contact ul.list-social li.social-google-plus a:hover {
+section.contact ul.list-social li.social-email a:hover {
     background-color: #d73925;
 }
 

@@ -16,3 +16,20 @@ h2 {
 h3 {
     color: #863C8D;
 }
+
+section.cta {
+    background-image: url('../img/ABbg-cta.jpg');
+}
+
+section.cta .cta-content h2 {
+    margin-top: -150px;
+    margin-bottom: 25px;
+    color: #24BBBF;
+    max-width: 600px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+section.cta .cta-content p {
+    color: white;
+}
