@@ -1,0 +1,18 @@
+.panel-default>.panel-heading {
+    background-color: #24BBBF;
+    font-size: 20px;
+    color: white;
+}
+
+.panel-body a {
+    color: #863C8D;
+    font-size: 18px;
+}
+
+h2 {
+    color: #24BBBF;
+}
+
+h3 {
+    color: #863C8D;
+}
